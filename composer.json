@@ -1,0 +1,15 @@
+{
+    "name": "liminal-cms/framework",
+    "autoload": {
+        "psr-4": {
+            "LiminalCms\\Framework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Chuck Greenman",
+            "email": "chuck@liminalcms.org"
+        }
+    ],
+    "require": {}
+}
