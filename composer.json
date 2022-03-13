@@ -2,7 +2,8 @@
     "name": "liminal-cms/framework",
     "autoload": {
         "psr-4": {
-            "LiminalCms\\Framework\\": "src/"
+            "LiminalCms\\Framework\\": "src/",
+            "LiminalCms\\Framework\\Routing\\": "src/Routing"
         }
     },
     "authors": [
